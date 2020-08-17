@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="27.269374">
+<testcase classname="TargetAus feature" name="TargetAus login page test" time="13.568067">
+<system-out><![CDATA[Given Already in loging page................................................passed
+When confirm login page.....................................................passed
+Then enter user name "sriraghavi2020@gmail.com".............................passed
+And enter password "sriraghavi".............................................passed
+Then press login button.....................................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="TargetAus feature" name="TargetAus login page test 2" time="13.701307">
+<system-out><![CDATA[Given Already in loging page................................................passed
+When confirm login page.....................................................passed
+Then enter user name "kiki@gmail.com".......................................passed
+And enter password "kiti"...................................................passed
+Then press login button.....................................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
